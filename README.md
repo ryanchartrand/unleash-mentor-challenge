@@ -1,6 +1,10 @@
-## The Mentor Challenge
+## The Mentor
 
 In this challenge, you'll start to grow as a mentor to other developers. Being a mentor not only builds a legacy through the people you inspire, but you'll also pick up leadership abilities while solidifying your knowledge of programming. On top of all that, it just feels damn good to give to others.
+
+After completing a challenge, mark it as completed [X] and add a link to an artefact showing how you completed it.
+
+## Challenges
 
 **[ ] Create, record & publish a 5-10 minute dev course**
 
@@ -9,6 +13,8 @@ Making the time to create short courses to help other developers not only builds
 
 *Need help?*
 Check out: http://bit.ly/2hKp7rr
+
+*Completed Artefact*: In Progress.
 
 **[ ] Answer 5 questions for other developers**
 
@@ -19,3 +25,5 @@ The best way to learn how to mentor others is to start with answering questions 
 * Join a room on https://gitter.im/home/explore and answer questions.
 * Find questions on StackOverflow.com and answer them.
 * Find questions from your own team and answer them.
+
+*Completed Artefact*: In Progress.
