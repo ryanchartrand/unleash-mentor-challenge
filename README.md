@@ -1,3 +1,5 @@
+## The Mentor Challenge
+
 In this challenge, you'll start to grow as a mentor to other developers. Being a mentor not only builds a legacy through the people you inspire, but you'll also pick up leadership abilities while solidifying your knowledge of programming. On top of all that, it just feels damn good to give to others.
 
 **[ ] Create, record & publish a 5-10 minute dev course**
